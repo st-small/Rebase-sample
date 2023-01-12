@@ -11,6 +11,7 @@
 		528D6AEB296FE44E00A85FDF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528D6AEA296FE44E00A85FDF /* ContentView.swift */; };
 		528D6AED296FE44F00A85FDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528D6AEC296FE44F00A85FDF /* Assets.xcassets */; };
 		528D6AF0296FE44F00A85FDF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528D6AEF296FE44F00A85FDF /* Preview Assets.xcassets */; };
+		528D6AF7296FE4B800A85FDF /* FirstMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528D6AF6296FE4B800A85FDF /* FirstMainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		528D6AEA296FE44E00A85FDF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		528D6AEC296FE44F00A85FDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		528D6AEF296FE44F00A85FDF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		528D6AF6296FE4B800A85FDF /* FirstMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				528D6AE8296FE44E00A85FDF /* Rebase_sampleApp.swift */,
 				528D6AEA296FE44E00A85FDF /* ContentView.swift */,
+				528D6AF6296FE4B800A85FDF /* FirstMainView.swift */,
 				528D6AEC296FE44F00A85FDF /* Assets.xcassets */,
 				528D6AEE296FE44F00A85FDF /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				528D6AEB296FE44E00A85FDF /* ContentView.swift in Sources */,
+				528D6AF7296FE4B800A85FDF /* FirstMainView.swift in Sources */,
 				528D6AE9296FE44E00A85FDF /* Rebase_sampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
